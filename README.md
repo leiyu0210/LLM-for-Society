@@ -1,10 +1,5 @@
 # Awesome-LLM-for-Social-Science 
 
-\
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-
 
 This repo aims to track research works in the emergent displine of using LLMs in social science. In perticular, we listed the recent perspective of using LLM as a proxy for human subjects. The related researches and their experiment domains are summarized as a table below.
 
