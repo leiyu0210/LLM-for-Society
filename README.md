@@ -1,7 +1,8 @@
-# Awesome-LLM-for-Social-Science 
+# LLM-for-Social-Science 
 
 
-This repo aims to track research works in the emergent displine of using LLMs in social science. In perticular, we listed the recent perspective of using LLM as a proxy for human subjects. The related researches and their experiment domains are summarized as a table below.
+This repo aims to track research works in the emergent discipline of using Large Language Models (LLMs) in social science. The collection encompasses a diverse range of studies that intersect with fields such as Educational Psychology, focusing on learning processes and strategies; Family Psychology, highlighting the dynamics and developmental aspects within family systems; Social Psychology, examining the influence of society on individual behavior; Developmental Psychology, charting human growth and learning across the lifespan; Adult Education, which investigates learning principles and methodologies for adults; Parent-child Relations, exploring the intricate interactions and learning exchanges between parents and children; Positive Psychology, promoting well-being and positive development; Distance Education and E-Learning, delivering education through digital platforms; Early Childhood Education, focusing on the vital initial years of educational formation; and Social and Cultural Differences, analyzing the impact of societal and cultural variables on learning and social behavior. The intention is to curate a comprehensive resource that informs the application of LLMs to augment and understand the complexities of human behavior within these interconnected domains of the social sciences.
+In perticular, we listed the recent perspective of using LLM as a proxy for human subjects. The related researches and their experiment domains are summarized as a table below.
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM social science to make pull request to update their paper's information!
 
